@@ -1,0 +1,2 @@
+# FacialKeypoints
+ This project focuses on developing a secure and user-friendly mobile application for identity verification using facial keypoint detection. Users can register by providing their personal details and a photo, from which facial keypoints are extracted and securely stored in a database. During authentication, the application compares the keypoints extracted from a new image with the stored data to verify the user's identity.
